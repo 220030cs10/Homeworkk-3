@@ -1,3 +1,9 @@
+// OBIDOV MAHMUDJON220030cs10
+// Write C++ program that acts as a calculator. Create a menu where users can choose the
+// mathematical operations: add, subtract, multiply and divide(’+’,’-’,’*’,’/’ ). Then, take two
+// numbers from the user input. Perform the operation and print the result. (Switch/case)
+
+
 #include <iostream>
 using namespace std;
 int main(int argc, const char * argv[]) {
